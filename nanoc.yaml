@@ -61,3 +61,4 @@ data_sources:
   -
     type: static
     prefix: assets
+

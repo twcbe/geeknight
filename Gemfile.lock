@@ -59,6 +59,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-15
 
 DEPENDENCIES
   activesupport (~> 4.0.0)
@@ -70,3 +71,6 @@ DEPENDENCIES
   nanoc (~> 3.6.5)
   sass (~> 3.2.12)
   terminal-notifier-guard (~> 1.5.3)
+
+BUNDLED WITH
+   1.14.6

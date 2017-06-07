@@ -16,6 +16,7 @@ git config --global user.name "snap-ci"
 git clone --quiet --branch=gh-pages git@github.com:twcbe/geeknight.git gh-pages
 
 echo "Building site..."
+bundle install
 bundle exec nanoc
 
 echo "Checking for changes..."

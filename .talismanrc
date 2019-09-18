@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: content/2019-09.html
+  checksum: f7bf38b054f503e212cf1d6abcddb8ad1f6d37e5daea613af036c07757d37265
+  ignore_detectors: []
+- filename: docs/aug2019.html
+  checksum: ed8dd8f9814dac1bb5ad9cff12fb7ade4c99190c6a9f094ba2c3375545cc62e8
+  ignore_detectors: []

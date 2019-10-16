@@ -26,7 +26,7 @@ Commit changes to master dir (including `/docs` dir) and push
 
 * `assets` - contains all assets
 * `assets/app.sass` - contains the main stylesheet
-* `assets/img/speakers` - contains speaker images
+* `assets/img/speakers` - contains   speaker images
 * `content` - content for each geek night
 * `layouts` - layouts for default and archive versions
 * `Rules` - routing rules

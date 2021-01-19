@@ -7,8 +7,12 @@ fileignoreconfig:
   checksum: d73d7740054c88bc2deeeb2ac816f9d627e1c844cbebefb561f444c23b726259
 - filename: content/2020-12.html
   checksum: 9655418170505a06672ab3c95ebf92302cacc27296d40fbb3a59f58e75e034eb
+- filename: content/2021-01.html
+  checksum: 01e35075efc7f270cd91e041eaed9900af613c0eb7e22cb17b9a91434f68a98a
 - filename: docs/aug2019.html
   checksum: ed8dd8f9814dac1bb5ad9cff12fb7ade4c99190c6a9f094ba2c3375545cc62e8
+- filename: docs/dec2020.html
+  checksum: ea3d5c89246b626e06ec321e8886692ef056d5ee90bd95348914ba7a703438bc
 - filename: docs/nov2020.html
   checksum: ce0fc2b567ae478a3129684197519549e05fefedc2d5cdc2f59dc8d6b70e75a7
 - filename: docs/sep2019.html

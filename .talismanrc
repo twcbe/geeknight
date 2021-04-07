@@ -11,12 +11,16 @@ fileignoreconfig:
   checksum: 01e35075efc7f270cd91e041eaed9900af613c0eb7e22cb17b9a91434f68a98a
 - filename: content/2021-03.html
   checksum: aaf40c6adffb0ef0a107f9fd0d3dfa6935ed7aea2e2262e49d203bcd0dccd90a
+- filename: content/2021-04.html
+  checksum: 3a9c2abc47f0e9d0686055b4ecba70ef0ad3db0121adbf06081b3b21ca8d091c
 - filename: docs/aug2019.html
   checksum: ed8dd8f9814dac1bb5ad9cff12fb7ade4c99190c6a9f094ba2c3375545cc62e8
 - filename: docs/dec2020.html
   checksum: ea3d5c89246b626e06ec321e8886692ef056d5ee90bd95348914ba7a703438bc
 - filename: docs/jan2021.html
   checksum: 4b66540431398fb5418fcd452bef9b408e9d8f2415d2379ee31e3ed0f52b19fc
+- filename: docs/mar2021.html
+  checksum: 42e409ea52ab20167b77828f866dee6392f516c5ee758b2f22ad532b34f44d83
 - filename: docs/nov2020.html
   checksum: ce0fc2b567ae478a3129684197519549e05fefedc2d5cdc2f59dc8d6b70e75a7
 - filename: docs/sep2019.html

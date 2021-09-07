@@ -13,8 +13,16 @@ fileignoreconfig:
   checksum: aaf40c6adffb0ef0a107f9fd0d3dfa6935ed7aea2e2262e49d203bcd0dccd90a
 - filename: content/2021-04.html
   checksum: 3a9c2abc47f0e9d0686055b4ecba70ef0ad3db0121adbf06081b3b21ca8d091c
+- filename: content/2021-06.html
+  checksum: 083514dc2957f7507c0f3c19c1e93d7fe642e33499a7d77b31b0be965031c611
+- filename: content/2021-09.html
+  checksum: e1eb3aa00fac51e50259a6751d847aa320877eb04f08d7387ba7202223c9af70
+- filename: docs/apr2021.html
+  checksum: 74232d0702174a0ea099c8893b94700f2b457fbc358f685a29ffacf2ae7fbcfc
 - filename: docs/aug2019.html
   checksum: ed8dd8f9814dac1bb5ad9cff12fb7ade4c99190c6a9f094ba2c3375545cc62e8
+- filename: docs/aug2021.html
+  checksum: 1e26975b3d955cfd2db3b40322255392ad74e06a4be7faddda6fc7798a9ea256
 - filename: docs/dec2020.html
   checksum: ea3d5c89246b626e06ec321e8886692ef056d5ee90bd95348914ba7a703438bc
 - filename: docs/jan2021.html
@@ -27,7 +35,3 @@ fileignoreconfig:
   checksum: 1380ca12e2d2441bb65d85263110fe69bccf149c44baf826bb42c1d589733801
 - filename: docs/sep2020.html
   checksum: fe5aeab3ce9f7d7f826792ccb1f0f2a43c58fb78aafdab4fce41022d7d83cdb9
-- filename: docs/apr2021.html
-  checksum: 74232d0702174a0ea099c8893b94700f2b457fbc358f685a29ffacf2ae7fbcfc
-- filename: content/2021-06.html
-  checksum: 083514dc2957f7507c0f3c19c1e93d7fe642e33499a7d77b31b0be965031c611

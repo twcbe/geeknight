@@ -35,3 +35,7 @@ fileignoreconfig:
   checksum: 1380ca12e2d2441bb65d85263110fe69bccf149c44baf826bb42c1d589733801
 - filename: docs/sep2020.html
   checksum: fe5aeab3ce9f7d7f826792ccb1f0f2a43c58fb78aafdab4fce41022d7d83cdb9
+- filename: content/2022-03.html
+  checksum: c6a959e5235f934c03ed4327f1241582f53604ccc73503a2b5d3ccc8f3f5bc6e
+- filename: docs/feb2022.html
+  checksum: 10a7ec83157150594bc15f16dd12488edeeb2865c9ab76c42776223cd2edcf6c
